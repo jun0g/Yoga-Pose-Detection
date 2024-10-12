@@ -2,7 +2,7 @@
 ###### Yoga Pose Detection
 <br>
 
-Pose Detction을 통해 요가 자세의 정확도를 평가하여 올바른 자세인지 판단
+Pose Detection을 통해 요가 자세의 정확도를 평가하여 올바른 자세인지 판단
 
 <br>
 
